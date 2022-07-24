@@ -16,4 +16,4 @@ jumlah_tanggungan. Dalam data tersebut, terdapat suatu kolom "risk_rating" yang 
 program untuk melakukan learning mapping, dan juga sebagai referensi saat melakukan testing pada model yang digunakan.
 Pada studi kasus ini, digunakan r programming dan library
 
-Untuk penjelasan lanjut dapat dilihat pada file pdf.
+Untuk penjelasan lanjut dapat dilihat pada file pdf, dan data yang digunakan dapat diakses pada file xlsx
